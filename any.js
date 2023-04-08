@@ -1,4 +1,4 @@
 const a = 34;
-const b = 36;
+const b = 306;
 
 alert(b+"a");  
